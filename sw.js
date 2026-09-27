@@ -16,7 +16,7 @@
  *
  * Версия подставляется сборкой. Меняется она — старый кэш стирается целиком.
  */
-var ВЕРСИЯ = "ba60b2adeb2b";
+var ВЕРСИЯ = "d9f82ea9b0e5";
 var КЭШ = "no4nik-" + ВЕРСИЯ;
 
 self.addEventListener("install", function () {
